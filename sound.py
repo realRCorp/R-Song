@@ -1,4 +1,5 @@
-﻿import pygame
+## Copyright Maranaï for RCorp™
+import pygame
 import csv
 import random
 
