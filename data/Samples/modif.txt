@@ -1,0 +1,2 @@
+@echo off
+	ren *.mp3 *.ogg
